@@ -139,7 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Determine_if_Two_Strings_Are_Close.cpp" />
+    <ClCompile Include="Find_the_Difference_of_Two_Arrays.cpp" />
     <ClCompile Include="Letter_Combinations_of_a_Phone_Number.cpp" />
+    <ClCompile Include="Merge_Strings_Alternately.cpp" />
+    <ClCompile Include="Move_Zeroes.cpp" />
+    <ClCompile Include="Product_of_Array_Except_Self.cpp" />
+    <ClCompile Include="Reverse_Words_in_a_String.cpp" />
+    <ClCompile Include="String_Compression.cpp" />
+    <ClCompile Include="Unique_Number_of_Occurrences.cpp" />
+    <ClCompile Include="Valid_Sudoku.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

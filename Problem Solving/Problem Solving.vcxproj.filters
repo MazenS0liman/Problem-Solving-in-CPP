@@ -13,10 +13,46 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\String/Arrays">
+      <UniqueIdentifier>{966dded4-5146-4426-b0b4-b25aa665c234}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Two Pointers">
+      <UniqueIdentifier>{dfa45f04-e725-4295-adee-a7f3a4aadb8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hash Map/Set">
+      <UniqueIdentifier>{098897c0-a939-4271-ba00-50439fe29b28}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Product_of_Array_Except_Self.cpp">
+      <Filter>Source Files\String/Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Reverse_Words_in_a_String.cpp">
+      <Filter>Source Files\String/Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Merge_Strings_Alternately.cpp">
+      <Filter>Source Files\String/Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="String_Compression.cpp">
+      <Filter>Source Files\String/Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="Move_Zeroes.cpp">
+      <Filter>Source Files\Two Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="Find_the_Difference_of_Two_Arrays.cpp">
+      <Filter>Source Files\Hash Map/Set</Filter>
+    </ClCompile>
+    <ClCompile Include="Unique_Number_of_Occurrences.cpp">
+      <Filter>Source Files\Hash Map/Set</Filter>
+    </ClCompile>
+    <ClCompile Include="Determine_if_Two_Strings_Are_Close.cpp">
+      <Filter>Source Files\Hash Map/Set</Filter>
+    </ClCompile>
     <ClCompile Include="Letter_Combinations_of_a_Phone_Number.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Hash Map/Set</Filter>
+    </ClCompile>
+    <ClCompile Include="Valid_Sudoku.cpp">
+      <Filter>Source Files\Hash Map/Set</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

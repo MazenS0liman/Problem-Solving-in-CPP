@@ -4,6 +4,8 @@
 #include <vector>
 #include <map>
 
+// Status: Accepted
+
 using namespace std;
 
 map<string, string> letterMap =
@@ -13,12 +15,12 @@ map<string, string> letterMap =
 
 vector<string> letterCombinations(string digits);
 
-int main() {
-	vector<string> result = letterCombinations("23");
-	for (string str : result) {
-		cout << str << " ";
-	}
-}
+//int main() {
+//	vector<string> result = letterCombinations("23");
+//	for (string str : result) {
+//		cout << str << " ";
+//	}
+//}
 
 vector<string> letterCombinations(string digits) {
 	if (digits.size() == 0) {
